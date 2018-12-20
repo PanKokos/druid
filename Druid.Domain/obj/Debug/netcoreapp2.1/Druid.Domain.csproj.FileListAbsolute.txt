@@ -1,0 +1,9 @@
+C:\Users\micha\source\repos\Druid\Druid.Domain\bin\Debug\netcoreapp2.1\Druid.Domain.deps.json
+C:\Users\micha\source\repos\Druid\Druid.Domain\bin\Debug\netcoreapp2.1\Druid.Domain.dll
+C:\Users\micha\source\repos\Druid\Druid.Domain\bin\Debug\netcoreapp2.1\Druid.Domain.pdb
+C:\Users\micha\source\repos\Druid\Druid.Domain\obj\Debug\netcoreapp2.1\Druid.Domain.csprojAssemblyReference.cache
+C:\Users\micha\source\repos\Druid\Druid.Domain\obj\Debug\netcoreapp2.1\Druid.Domain.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\Druid\Druid.Domain\obj\Debug\netcoreapp2.1\Druid.Domain.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\Druid\Druid.Domain\obj\Debug\netcoreapp2.1\Druid.Domain.AssemblyInfo.cs
+C:\Users\micha\source\repos\Druid\Druid.Domain\obj\Debug\netcoreapp2.1\Druid.Domain.dll
+C:\Users\micha\source\repos\Druid\Druid.Domain\obj\Debug\netcoreapp2.1\Druid.Domain.pdb
